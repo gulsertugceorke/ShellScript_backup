@@ -34,7 +34,7 @@ done
 }
 
 function usage(){
-printf "Usage: $0 [options [-file_name \"beyza.*\" -file_type f -backup_type zip]]\n"
+printf "Usage: $0 [options [-file_name \"tugce.*\" -file_type f -backup_type zip]]\n"
 printf "Options:\n
 -file_name, File Name
 -backup_type, Compress Type
